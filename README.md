@@ -68,6 +68,10 @@ This project was built as a capstone artifact. For future improvements or sugges
 1. Fork the repository
 2. Create a feature branch
 3. Submit a pull request
+
+## Code Review: 
+https://youtu.be/-S_0QaAsRRg
+
 ## 🧑‍💻 Author
 **Faris Malik**
 GitHub: [@Frisbiz](https://github.com/Frisbiz)
