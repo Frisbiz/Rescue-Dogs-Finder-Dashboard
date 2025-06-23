@@ -63,11 +63,6 @@ python main.py
 - Software Design – Modular structure with separate files for UI, DB, and main logic, plus a Reset All button.
 - Algorithms and Data Structures – Dynamic breed filter populated from unique values in the database.
 - Database Handling – CSV export, environment-driven connection config, and startup checks for MongoDB.
-## 🤝 Contributing
-This project was built as a capstone artifact. For future improvements or suggestions:
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request
 
 ## Code Review: 
 https://youtu.be/-S_0QaAsRRg
