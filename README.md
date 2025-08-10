@@ -1,4 +1,4 @@
-# 🐾 CS‑340 Animal Rescue Dashboard
+# 🐾 Animal Rescue Dashboard
 This project is a web-based dashboard for an animal rescue organization, originally developed for the SNHU CS‑340 Advanced Programming Concepts course and enhanced as part of the CS 499 Capstone. It allows users to explore animal shelter data using interactive filters, maps, and visualizations. The application is built using Python, Dash, MongoDB, and Plotly.
 ## 📌 Features
 - Filter animals by rescue type (Water, Mountain, Disaster)
@@ -72,3 +72,4 @@ https://youtu.be/-S_0QaAsRRg
 GitHub: [@Frisbiz](https://github.com/Frisbiz)
 Southern New Hampshire University – B.S. Computer Science
 Class of 2025
+
