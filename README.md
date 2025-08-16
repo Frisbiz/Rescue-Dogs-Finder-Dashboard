@@ -64,13 +64,11 @@ python main.py
 - Algorithms and Data Structures – Dynamic breed filter populated from unique values in the database.
 - Database Handling – CSV export, environment-driven connection config, and startup checks for MongoDB.
 
-## Code Review: 
-https://youtu.be/-S_0QaAsRRg
-
 ## 🧑‍💻 Author
 **Faris Malik**
 GitHub: [@Frisbiz](https://github.com/Frisbiz)
 Southern New Hampshire University – B.S. Computer Science
 Class of 2025
+
 
 
